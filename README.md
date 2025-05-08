@@ -1,7 +1,3 @@
-Here’s a detailed and professional `README.md` for your **Feedback Analysis** project using OpenAI API, Firebase, and a UI-based frontend:
-
----
-
 # 📝 Feedback Analysis System
 
 A smart and secure feedback analysis tool powered by OpenAI API, designed to collect, categorize, and analyze user feedback in real-time. The system features a clean UI for collecting feedback, ensures toxicity and spam filtering, provides developer suggestions, and visualizes insights via a Firebase-powered analytics dashboard.
@@ -195,7 +191,3 @@ Pull requests and suggestions are welcome! Please fork the repo and open a PR wi
 ## 📜 License
 
 MIT License – see [`LICENSE`](LICENSE) file for details.
-
----
-
-Would you like a sample UI layout or wireframe to go along with this README?
